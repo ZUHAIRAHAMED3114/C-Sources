@@ -1,0 +1,36 @@
+
+Getting Started with JSON in C# Using Json.NET 12 PluralSight
+
+For JSONData Retiriveing The Data From json Object
+ JsonObject(-SelectToken method Responsiblity...)
+
+Updating the Data From Json Object
+ Create Json From Linq Imperatively...?
+ Crete Json From Linq Decleratively...?
+
+Demo:Serializing Different Type of Object   
+Demo:Deserializing Differnt Types of Object
+Demo:Serializing Dynamic Type of Object
+Demo:DeSerializing Dynamice Type of Object...
+
+
+During Deserialization Exception Generated...?
+
+
+
+Expession Tree
+-------------
+ x>5--> three Node OperationNode,varialbenode,constantNode
+ x<5--> three Node OperationNode,varialbenode,constantNode
+
+x>5 || x<5 
+->->->->->-> 
+ expression tree with two operator x<5 in middle or x>5
+
+Language Integrated Provider
+
+Provider Specific  Query
+ Linq->xml
+ LInq->object
+ Linq->Json
+   those are Provider
